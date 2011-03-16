@@ -9,7 +9,7 @@ together to help starting a tipfy project using
 buildout.
 
 To see how they can be used check:
-	http://github.com/tipfy-project
+	http://code.google.com/p/tipfy-project/
 	
 Latest version on:
 	http://code.google.com/p/tipfyrecipes/
