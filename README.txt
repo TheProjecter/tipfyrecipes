@@ -12,4 +12,4 @@ To see how they can be used check:
 	http://github.com/tipfy-project
 	
 Latest version on:
-	http://github.com/tipfyrecipes
+	http://code.google.com/p/tipfyrecipes/
