@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name = 'tipfyrecipes',
-    version = '0.2',
+    version = '0.3',
     license = 'BSD',
     keywords='buildout recipe google app engine appengine gae zc.buildout tipfy',
     url='http://code.google.com/p/tipfyrecipes/',

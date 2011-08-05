@@ -74,7 +74,7 @@ class Mercurial(object):
 		return ""
 
 	def clone(self):
-		hg.clone(ui.ui(), self.repository, self.directory)
+		hg.clone(ui.ui(), '', self.repository, self.directory)
 
 	def pull(self):
 		commands.pull(ui.ui(), hg.repository(ui.ui(), self.directory),
